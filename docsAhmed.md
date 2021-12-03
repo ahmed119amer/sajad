@@ -18,3 +18,6 @@ git fetch origin
 
 في ملف السيرفي الدخلي 
 git checkout main
+
+
+تعديل
