@@ -1,29 +1,33 @@
 # عام
 
-عرض ليست الريمونت
+show remontes
 
 git remote -v
 
-عند ما تريد ان تعمل دمج وانت في البرانج المتاخر اعمل منه للمتقدم
+marge
 
-master هو المتأخر
+master last
 
 git merge main 
 
 # من مجال العمل اول مرة
-لاظافة ريمونت
+to add remont 
+
 git remote add origin  /F/ahmed/.git
+
 git remote add origin  /F/gitserverlocal/bajet/.git
+
 git branch -M main
+
 git push -u origin main
 
 # دفع التغييرات 
-اذا كانت هنالك ملفات في السيرفر هذه التعليمات تدفع التحديثات للسيرفر بالقوة
+push force
+
 git push origi main --force   
 
-يفضل عمل برانجين لكل سيرفر 
 
-يقوم بارسال الى المحلي
+to gir repo local
 
 git push origin main
 
@@ -36,16 +40,20 @@ get changes
 git pull origi main   
 
 # السيرفر المحلي
-في ملف السيرفي الدخلي 
+in local git repo
+
 git checkout main
 
 to get branch in git
+
 git branch
 
 
 # عند السحب لمجال العمل
-عند سحب من السيرفر
+fatch from repo
+
 git checkout origin/main
+
 git fetch origin 
 
 
