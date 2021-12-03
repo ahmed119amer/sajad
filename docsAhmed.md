@@ -1,6 +1,6 @@
-## تعليمات كاملة
+# تعليمات كاملة
 
-# عام
+## عام
 
 show remontes
 
@@ -12,7 +12,7 @@ master last
 
 git merge main 
 
-# من مجال العمل اول مرة
+## من مجال العمل اول مرة
 to add remont 
 
 git remote add origin  /F/ahmed/.git
@@ -23,7 +23,7 @@ git branch -M main
 
 git push -u origin main
 
-# دفع التغييرات 
+## دفع التغييرات 
 push force
 
 git push origi main --force   
@@ -44,7 +44,7 @@ git pull origi main
 ## سحب التغييرات
 probime:fatal: refusing to merge unrelated histories
  git pull github main --allow-unrelated-histor
-# السيرفر المحلي
+## السيرفر المحلي
 in local git repo
 
 git checkout main
