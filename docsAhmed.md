@@ -41,6 +41,9 @@ get changes
 
 git pull origi main   
 
+## سحب التغييرات
+probime:fatal: refusing to merge unrelated histories
+ git pull github main --allow-unrelated-histor
 # السيرفر المحلي
 in local git repo
 
