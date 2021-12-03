@@ -13,6 +13,22 @@ git push -u origin main
 اذا كانت هنالك ملفات في السيرفر هذه التعليمات تدفع التحديثات للسيرفر بالقوة
 git push origi main --force   
 
+يفضل عمل برانجين لكل سيرفر 
+
+يقوم بارسال الى المحلي
+
+git push origin main
+
+يقوم بالارسال الى جيت هاب
+
+git push origi master
+
+عند ما تريد ان تعمل دمج وانت في البرانج المتاخر اعمل منه للمتقدم
+
+master هو المتأخر
+
+git merge main 
+
 # السيرفر المحلي
 في ملف السيرفي الدخلي 
 git checkout main
@@ -27,4 +43,3 @@ git checkout origin/main
 git fetch origin 
 
 
-فقط تعديل
