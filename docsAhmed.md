@@ -1,4 +1,4 @@
-# محسن
+# عام
 
 عرض ليست الريمونت
 
@@ -27,11 +27,13 @@ git push origi main --force
 
 git push origin main
 
-# to github
+to github
 
 git push origi main
 
+get changes 
 
+git pull origi main   
 
 # السيرفر المحلي
 في ملف السيرفي الدخلي 
