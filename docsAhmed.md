@@ -25,3 +25,6 @@ git branch
 عند سحب من السيرفر
 git checkout origin/main
 git fetch origin 
+
+
+فقط تعديل
