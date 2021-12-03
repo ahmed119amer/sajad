@@ -9,6 +9,9 @@ git remote add origin  /F/gitserverlocal/bajet/.git
 git branch -M main
 git push -u origin main
 
+# دفع التغييرات 
+اذا كانت هنالك ملفات في السيرفر هذه التعليمات تدفع التحديثات للسيرفر بالقوة
+git push origi main --force   
 
 # السيرفر المحلي
 في ملف السيرفي الدخلي 
